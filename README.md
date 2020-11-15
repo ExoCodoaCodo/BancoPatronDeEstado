@@ -1,5 +1,5 @@
 # BancoPatronDeEstado
-<h1> Patron de estado  / Patron State 
+<h1> Patron de estado  / Patron State </h1>
 Permite que un objeto modifique su comportamiento cada vez que cambie su estado interno. Busca que un objeto pueda reaccionar 
 según su estado interno. Si bien muchas veces esto se puede solucionar con un boolean o utilizando constantes, esto suele terminar 
 con una gran cantidad de if-else, código ilegible y dificultad en el mantenimiento. La intención del State es desacoplar el estado de la clase en cuestión.
